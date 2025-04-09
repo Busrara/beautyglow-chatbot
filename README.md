@@ -21,7 +21,7 @@ No need for external databases — all answers are generated using a fine-tuned 
 
 ### Future Improvements
 
-Add multilingual support
-Integrate with a website using Gradio or Flask
-Expand to handle other domains (e.g., travel, finance, education)
+- Add multilingual support
+- Integrate with a website using Gradio or Flask
+- Expand to handle other domains (e.g., travel, finance, education)
 
