@@ -25,3 +25,5 @@ No need for external databases — all answers are generated using a fine-tuned 
 - Integrate with a website using Gradio or Flask
 - Expand to handle other domains (e.g., travel, finance, education)
 
+Read my Medium writing for better understanding: https://medium.com/@busraracoban/leveraging-transformers-for-industry-specific-chatbots-f8afb3befb52 :)
+
